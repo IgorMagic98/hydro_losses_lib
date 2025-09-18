@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: hydro_losses_lib
+Version: 0.1.0
+Summary: Библиотека для расчета гидравлических потерь в гидравлических элементах
+Author: Igor Shepovalov
+Author-email: shepovalov.igor@mail.ru
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-python
+Dynamic: summary
